@@ -2,6 +2,13 @@
 I'm Ankush Matre, a curious developer who loves turning ideas into code. Whether it's building smart apps, exploring AI tools, or diving into new tech, I'm always up for a creative challenge. I believe in learning by doing and sharing that journey with others.<br><br>Let's connect, collaborate, and create something awesome! 🚀
 
 
+🌱 Currently exploring Web Development, DSA, and AI tools like LangChain & LangFlow
+💻 Passionate about building projects that solve real-world problems
+🚀 Always up for collaboration on exciting ideas
+📚 Learning in public and sharing my journey
+💡 Believer in “Code. Learn. Improve. Repeat.
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ankush-matre-29aa39259/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Ankush Matre) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankushmatre4321@gmail.com) 
 
